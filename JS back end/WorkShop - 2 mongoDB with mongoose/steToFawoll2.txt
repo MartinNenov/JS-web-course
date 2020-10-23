@@ -1,0 +1,8 @@
+CubeModel : change the accessories variable - [mongoose.Schema.Types.ObjectId] and in AccessoryModel
+the root for /create/accessory has to be before the root for /create in the root file
+Devide the header and footer from all the pages and move in a new file main.hbs with {{{body}}} in it
+the main.hbs fail must be an layout folder in views 
+in the page for getAtachAccessory make a button href="/attach/accessory/:id" id of the cube 
+see how he made the getAttachAccessories function 
+and also the postAttachAccessory function
+have to make if else statment in handlebars for the accessories when adding to a cube

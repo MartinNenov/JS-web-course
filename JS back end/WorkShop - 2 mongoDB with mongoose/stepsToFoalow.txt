@@ -1,0 +1,14 @@
+in config pu a connection string
+make a database.js in configuse mongoose
+connect to database with connectionstring
+create cube.js with mongoose sschema and export use mongoose.model
+create accessory.js za id na akseuarite mongoose.Schema.Types.ObjectId
+napravi si getCubes v controller v cube.js kato trqbva da tursi s parametri {from serch to} cubeModel.find
+napravi si postCreateCube  s cubemodel.create
+getCube  cubemodel.FindById
+
+
+
+
+  
+ 
